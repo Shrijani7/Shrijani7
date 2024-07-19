@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/profile/shrijani2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrijani2005" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrii" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/siriyani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siriyani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shrijani2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="SHRIJANI SAI" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@shrijani2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="siriyani" height="30" width="40" /></a>
                                                                      
                                                                      
                                                                      
