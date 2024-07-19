@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Shrijani Sai Gandham...</h1>
 <h3 align="center">"Passionate about Computer and Electronics Technologies"| Sophomore in Electronics and Communications from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamana29&label=Profile%20views&color=0e75b6&style=flat" alt="gamana29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamana29&label=Profile%20views&color=0e75b6&style=flat" alt="shrii" /> </p>
 
 - 🌱 I’m currently learning **ARTIFICIAL INTELLIGENCE,EMBEDDED SYSTEMS,PYTHON,JAVA**
 
