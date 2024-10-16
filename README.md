@@ -1,60 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Introduction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f8ff;
-        }
-        .container {
-            text-align: center;
-            background-color: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        button {
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            font-size: 16px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-        #intro {
-            margin-top: 20px;
-            font-size: 18px;
-            color: #333;
-            display: none;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi there!</h1>
-        <p>Want to know more about me?</p>
-        <button onclick="revealIntro()">Click to Introduce Myself</button>
-        <div id="intro">
-            <p>Hello, I'm Shrijani Sai Gandham. I am a part of Prime Edge, actively involved in outreach activities, and working on exciting projects in technology, including AI and blockchain. I love learning new things and participating in various events. Nice to meet you!</p>
-        </div>
-    </div>
+<h1 align="center"><b>Hey, I'm Shrijani ✨.<b/></h1>
+<h3 align="center"><i></i> Welcome to my Github Page 🎉 <i/></h3>
+<p>Heres a little something about me :</p>
+<p align="left">I'm passionate about Electronics and Communication with a deep interest in Artificial Intelligence and Embedded Systems. Always eager to learn and collaborate, I'm currently expanding my skills in C, Java and AIML while collaborating on exciting projects.</p>
+<img src="https://komarev.com/ghpvc/?username=Shrijani7&label=Profile%20views&color=4CAF50&style=flat-square" alt="Profile Views" />
 
-    <script>
-        function revealIntro() {
-            document.getElementById('intro').style.display = 'block';
-        }
-    </script>
-</body>
-</html>
+<p align="left"> Hope you like my page!</p> 
+<h1 align="center"><b> <b/></h1>
+<h1 align="center"><b>Skill Set 💫<b/></h1>
+
+- **Major Skills I'm learning:** <br>
+  Artificial Intelligence, C, Java, IOT, Analog Electronics and Competitive Coding. </br>
+
+- **Projects I worked on:**  
+  <p>Java Project implementing the popular BrickBreaker game in Comand Prompt.<br>
+  Contributor in various open-source projects, such as Winter of Block and GSOC</br>
+  Worked on a Design Thinking and Innovation project where I helped build a prototype of a bluetooth controlled car.
+  </p>
+  <h1 align="center"><b> <b/></h1>
+<h1 align="center"><b>How to reach me✈️<b/></h1>
+
+- If you'd like to get in touch with me 🏆 you can connect with me via email. Alternatively, feel free to reach out through social media platforms such as LinkedIn, Twitter, or Instagram, where I actively engage with my network📞:
+  
+  Email: **Shrijani2005@gmail.com**<br>
+  LinkedIn: **www.linkedin.com/in/Shrijani07**</br><br>
+  Also did you know why programmers prefer dark mode? **Because light attracts bugs!** 🌞 </br>
+
+<h3 align="left"> ✉ Connect with me:</h3>
+<p align="left">
+   <a href="https://www.linkedin.com/in/shrijani-gandham-b02902289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/shrijani2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/shrijani2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/shrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/siriyani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@shrijani2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
+</p>
+<h1 align="center"><b> <b/></h1>
+
+<h1 align="center"><b>⚙️Langauges & Tools<b/></h1>
+    <p style="font-size: 24px;">In my projects 💡 I frequently utilize a variety of coding languages that development experience and enable me to create efficient solutions. Among them, Python stands out for its simplicity and versatility. ⌨️ JavaScript is essential for creating web applications, while HTML and CSS are crucial for structuring and styling.</p>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+</p>
+        <h1 align="center"><b> <b/></h1>
+<h1 align="center"><b>Top Languages 💻<b/></h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrijani7&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p style="font-size: 24px;">Here are some coding languages I frequently use for my projects;🌟 Each language enhances my projects in unique ways.💖</p>
+    <h1 align="center"><b> <b/></h1>
+<h3 align="center">THANK YOU VISIT AGAIN!
+😊🙏🌸</h3>
+<img src="https://unsplash.com/photos/white-and-black-candle-holder-WZQgt3MZCe0" width="300" height="200">
