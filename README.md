@@ -66,6 +66,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrijani7&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p style="font-size: 24px;">Here are some coding languages I frequently use for my projects;🌟 Each language enhances my projects in unique ways.💖</p>
     <h1 align="center"><b> <b/></h1>
-<img src="https://plus.unsplash.com/premium_photo-1683140722537-0eb6f05b57d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8TmljZSUyMHRvJTIwbWVldCUyMHlvdXxlbnwwfHwwfHx8MA%3D%3D" width="800" height="600 align="center" >
+<img src="https://plus.unsplash.com/premium_photo-1683140722537-0eb6f05b57d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8TmljZSUyMHRvJTIwbWVldCUyMHlvdXxlbnwwfHwwfHx8MA%3D%3D" width="720" height="600 align="center" >
 <h3 align="center">THANK YOU VISIT AGAIN!
 😊🙏🌸</h3>
